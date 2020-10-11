@@ -96,7 +96,7 @@ button:focus {
       padding-top: 80px; } }
 
 .section_gap_bottom {
-  padding-bottom: 200px; }
+  padding-bottom: 0px; }
   @media (max-width: 1199px) {
     .section_gap_bottom {
       padding-bottom: 80px; } }
@@ -123,6 +123,7 @@ button:focus {
         font-size: 30px;
         line-height: 34px; } }
   .main_title p {
+    font-size: 14px;
     margin-bottom: 0px; }
     @media (max-width: 991px) {
       .main_title p br {
@@ -138,28 +139,28 @@ button:focus {
 /* Start Gradient Area css
 ============================================================================================ */
 .gradient-bg, .header_area .navbar .nav .nav-item.submenu ul .nav-item:hover .nav-link, .blog_right_sidebar .widget_title, .blog_right_sidebar .newsletter_widget .bbtns, .blog_right_sidebar .tag_cloud_widget ul li a:hover, .blog-pagination .page-item.active .page-link, .blog-pagination .page-link:hover, .comments-area .btn-reply:hover {
-  background: -webkit-linear-gradient(90deg, #4458dc 0%, #854fee 100%);
-  background: -moz-linear-gradient(90deg, #4458dc 0%, #854fee 100%);
-  background: -o-linear-gradient(90deg, #4458dc 0%, #854fee 100%);
-  background: linear-gradient(90deg, #4458dc 0%, #854fee 100%); }
+  background: -webkit-linear-gradient(90deg, #4458DC 0%, #7C50EC 100%);
+  background: -moz-linear-gradient(90deg, #4458DC 0%, #7C50EC 100%);
+  background: -o-linear-gradient(90deg, #4458DC 0%, #7C50EC 100%);
+  background: linear-gradient(90deg, #4458DC 0%, #7C50EC 100%); }
 
 .border-gradient {
-  border-image: -webkit-linear-gradient(90deg, #4458dc 0%, #854fee 100%);
-  border-image: -moz-linear-gradient(90deg, #4458dc 0%, #854fee 100%);
-  border-image: -o-linear-gradient(90deg, #4458dc 0%, #854fee 100%);
-  border-image: linear-gradient(90deg, #4458dc 0%, #854fee 100%); }
+  border-image: -webkit-linear-gradient(90deg, #4458DC 0%, #7C50EC 100%);
+  border-image: -moz-linear-gradient(90deg, #4458DC 0%, #7C50EC 100%);
+  border-image: -o-linear-gradient(90deg, #4458DC 0%, #7C50EC 100%);
+  border-image: linear-gradient(90deg, #4458DC 0%, #7C50EC 100%); }
 
 .gradient-bg2 {
-  background: -webkit-linear-gradient(90deg, #4458dc 0%, #854fee 100%);
-  background: -moz-linear-gradient(90deg, #4458dc 0%, #854fee 100%);
-  background: -o-linear-gradient(90deg, #4458dc 0%, #854fee 100%);
-  background: linear-gradient(90deg, #4458dc 0%, #854fee 100%); }
+  background: -webkit-linear-gradient(90deg, #4458DC 0%, #7C50EC 100%);
+  background: -moz-linear-gradient(90deg, #4458DC 0%, #7C50EC 100%);
+  background: -o-linear-gradient(90deg, #4458DC 0%, #7C50EC 100%);
+  background: linear-gradient(90deg, #4458DC 0%, #7C50EC 100%); }
 
 .gradient-color, .contact_info .info_item i {
-  background: -webkit-linear-gradient(90deg, #4458dc 0%, #854fee 100%);
-  background: -moz-linear-gradient(90deg, #4458dc 0%, #854fee 100%);
-  background: -o-linear-gradient(90deg, #4458dc 0%, #854fee 100%);
-  background: linear-gradient(90deg, #4458dc 0%, #854fee 100%);
+  background: -webkit-linear-gradient(90deg, #4458DC 0%, #7C50EC 100%);
+  background: -moz-linear-gradient(90deg, #4458DC 0%, #7C50EC 100%);
+  background: -o-linear-gradient(90deg, #4458DC 0%, #7C50EC 100%);
+  background: linear-gradient(90deg, #4458DC 0%, #7C50EC 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent; }
 
@@ -180,24 +181,24 @@ button:focus {
   border-radius: 5px;
   background-origin: border-box;
   background-clip: content-box, border-box;
-  background-image: linear-gradient(to right, #4458dc 0%, #854fee 100%), radial-gradient(circle at top left, #4458dc, #854fee);
+  background-image: linear-gradient(to right, #F5C21D 0%, #F97F23 100%), radial-gradient(circle at top left, #F5C21D, #F97F23);
   border: double 2px transparent;
   box-shadow: 0px 10px 30px rgba(118, 85, 225, 0.3); }
   .primary_btn span {
     padding: 0 42px; }
   .primary_btn.tr-bg {
-    background-image: linear-gradient(#ffffff, #ffffff), radial-gradient(circle at top left, #4458dc, #854fee);
+    background-image: linear-gradient(#ffffff, #ffffff), radial-gradient(circle at top left, #F5C21D, #F97F23);
     border: 2px solid transparent;
     color: #222222;
     box-shadow: none; }
     .primary_btn.tr-bg:hover {
-      background-image: linear-gradient(to right, #4458dc 0%, #854fee 100%), radial-gradient(circle at top left, #4458dc, #854fee);
+      background-image: linear-gradient(to right, #F5C21D 0%, #F97F23 100%), radial-gradient(circle at top left, #F5C21D, #F97F23);
       border: double 2px transparent;
       color: #ffffff;
       box-shadow: 0px 10px 30px rgba(118, 85, 225, 0.3); }
   .primary_btn:hover {
-    background-image: linear-gradient(#ffffff, #ffffff), radial-gradient(circle at top left, #4458dc, #854fee);
-    border: 2px solid #854fee;
+    background-image: linear-gradient(#ffffff, #ffffff), radial-gradient(circle at top left, #69E7E1, #F97F23);
+    border: 2px solid #F97F23;
     color: #222222;
     box-shadow: none;
     background-clip: border-box; }
@@ -215,7 +216,7 @@ button:focus {
   position: absolute;
   width: 100%;
   z-index: 9999;
-  background: #ffffff; }
+  background: transparent; }
   .header_area .menu_nav {
     width: 100%; }
   .header_area .navbar {
@@ -229,13 +230,15 @@ button:focus {
       .header_area .navbar .nav .nav-item .nav-link {
         font: 500 14px/100px "Rubik", sans-serif;
         text-transform: uppercase;
-        color: #000000;
+        color: #fff;
         padding: 0px;
         display: inline-block; }
         .header_area .navbar .nav .nav-item .nav-link:after {
           display: none; }
       .header_area .navbar .nav .nav-item:hover .nav-link, .header_area .navbar .nav .nav-item.active .nav-link {
-        color: #4458dc; }
+        color: #fff;
+        text-decoration: underline overline #fff;
+       }
       .header_area .navbar .nav .nav-item.submenu {
         position: relative; }
         .header_area .navbar .nav .nav-item.submenu ul {
@@ -307,7 +310,10 @@ button:focus {
     top: -70px;
     left: 0;
     right: 0;
-    background: #ffffff;
+    background: -webkit-linear-gradient(-45deg,rgb(1, 87, 255) 0,rgba(0, 127, 254,1) 100%);
+    background: -moz-linear-gradient(-45deg,rgb(1, 87, 255) 0,rgba(0, 127, 254,1) 100%);
+    background: -o-linear-gradient(-45deg,rgb(1, 87, 255) 0,rgba(0, 127, 254,1) 100%);
+    background: linear-gradient(-45deg,rgb(1, 87, 255) 0,rgba(0, 127, 254,1) 100%);
     transform: translateY(70px);
     transition: transform 500ms ease, background 500ms ease;
     -webkit-transition: transform 500ms ease, background 500ms ease;
@@ -343,11 +349,12 @@ button:focus {
 /* Home Banner Area css
 ============================================================================================ */
 .home_banner_area {
-  z-index: 1;
-  background: url(../img/banner/home-banner.png) no-repeat top center;
+ 
+  /*background: url(../img/banner/home-banner.png) no-repeat top center;*/
   background-position: center;
   background-size: cover; }
   .home_banner_area .banner_inner {
+    
     width: 100%; }
     .home_banner_area .banner_inner .home_right_img {
       padding-top: 197px; }
@@ -377,7 +384,7 @@ button:focus {
           position: absolute;
           top: 50%;
           left: 23%;
-          background: #000000; }
+          background: transparent; }
           @media (max-width: 575px) {
             .home_banner_area .banner_inner .banner_content h3:after {
               display: none; } }
@@ -410,7 +417,7 @@ button:focus {
     overflow: hidden;
     width: 100%;
     min-height: 485px;
-    background: url(../img/banner/common-banner.png) no-repeat right bottom;
+    /*background: url(../img/co.png) no-repeat right bottom;*/
     background-size: 90% 85%;
     width: 98%;
     z-index: 1; }
@@ -2435,9 +2442,16 @@ h6 {
 ============================================================================================ */
 .about_area {
   position: relative; }
+  @media(max-width:991px){
+    .about_area{
+      margin-top: 50px;
+    }
+  }
   .about_area .main_title {
     margin-bottom: 0px; }
     .about_area .main_title p {
+      font-size: 15px;
+      line-height: 25px;
       margin-bottom: 20px; }
   .about_area .primary_btn {
     margin-top: 20px; }
@@ -2452,10 +2466,72 @@ h6 {
           height: auto; } }
     @media (max-width: 991px) {
       .about_area .about_img {
+        
         display: none; } }
 
 /* End About Us Area css
 ============================================================================================ */
+
+/*=================REDES SOCIALES BANNER==============*/
+.redes{
+  z-index: 99;
+  margin-top: -50px;
+}
+.inst {
+  color: #fff;
+  background: #DF2C71;
+}
+.face{
+  background: #fff;
+  color: #0159FF;
+}
+.git{
+  background: #23272D;
+  color: #fff;
+}
+.lin{
+  background: #0159FF;
+  color: #fff;
+}
+.what{
+  background: #00B62D;
+  color: #fff;
+}
+.go{
+  background: #FD5447;
+  color: #fff;
+}
+.go:hover{
+  background: #fff;
+  color: #FD5447;
+}
+.what:hover{
+  background: #fff;
+  color: #00B62D;
+}
+.inst:hover{
+
+  color: #DF2C71;
+  background: #fff;
+}
+
+.face:hover{
+  background: #0159FF;
+  color: #fff;
+}
+.git:hover{
+  background: #fff;
+  color: #23272D;
+}
+.lin:hover{
+  background: #fff;
+  color: #0159FF;
+}
+@media(max-width: 776px){
+  .redes{
+    margin-top: -20px;
+  }
+}
 /* Start Barand Area css
 ============================================================================================ */
 .brand_area {
@@ -2469,6 +2545,7 @@ h6 {
 /* Start Features Area css
 ============================================================================================ */
 .features_area {
+  background: #fff; 
   padding-bottom: 170px; }
   @media (max-width: 1199px) {
     .features_area {
@@ -2569,7 +2646,7 @@ h6 {
       -ms-flex-align: center;
       align-items: center; } }
   .client-info .lage {
-    color: #854fee;
+    color: #007FFE;
     font-family: "Rubik", sans-serif;
     font-size: 100px;
     font-weight: 700;
@@ -2594,7 +2671,7 @@ h6 {
     .call-now h3 {
       font-size: 17px; } }
   .call-now p {
-    color: #854fee;
+    color: #007FFE;
     font-size: 16px;
     text-transform: uppercase;
     margin-bottom: 5px; }
@@ -2631,7 +2708,7 @@ h6 {
       -o-transition: all 0.4s ease 0s;
       transition: all 0.4s ease 0s; }
       .portfolio_area .filters ul li:hover, .portfolio_area .filters ul li.active {
-        color: #854fee; }
+        color: #0159FF; }
       @media (max-width: 767px) {
         .portfolio_area .filters ul li {
           margin-right: 20px; } }
@@ -3080,7 +3157,7 @@ h6 {
 
   .home_banner_area .banner_inner {
     min-height: 300px;
-    padding-top: 200px;
+    padding-top: 140px;
     padding-bottom: 50px; }
 
   .home_banner_area .banner_inner .banner_content {
