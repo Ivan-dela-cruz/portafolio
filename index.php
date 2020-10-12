@@ -119,6 +119,7 @@
 							Aplicaciones móviles de citas médicas,Portales Web, Repositorios de documentos y Sistemas para la Ayuda Social.
 						</p>
 						<p>Considero la programación y el diseño como  las herramientas fundamentales que permiten mejorar la vida del ser humano.</p>
+
 						<a class="primary_btn" href="#"><span>Descargar CV</span></a>
 					</div>
 				</div>
@@ -133,6 +134,20 @@
 			<div class="row justify-content-center">
 				<div class="col-lg-6">
 					<div class="row">
+						<div class="col-lg-4 col-md-4 col-sm-6">
+							<div class="single-brand-item d-table">
+								<div class="d-table-cell text-center">
+									<img src="img/brands/logo12.png" alt="">
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-4 col-md-4 col-sm-6">
+							<div class="single-brand-item d-table">
+								<div class="d-table-cell text-center">
+									<img src="img/brands/logo13.png" alt="">
+								</div>
+							</div>
+						</div>
 						<div class="col-lg-4 col-md-4 col-sm-6">
 							<div class="single-brand-item d-table">
 								<div class="d-table-cell text-center">
@@ -168,13 +183,7 @@
 								</div>
 							</div>
 						</div>
-						<div class="col-lg-4 col-md-4 col-sm-6">
-							<div class="single-brand-item d-table">
-								<div class="d-table-cell text-center">
-									<img src="img/brands/logo6.png" alt="">
-								</div>
-							</div>
-						</div>
+						
 						<div class="col-lg-4 col-md-4 col-sm-6">
 							<div class="single-brand-item d-table">
 								<div class="d-table-cell text-center">
@@ -196,14 +205,32 @@
 								</div>
 							</div>
 						</div>
+						<div class="col-lg-4 col-md-4 col-sm-6">
+							<div class="single-brand-item d-table">
+								<div class="d-table-cell text-center">
+									<img src="img/brands/logo10.png" alt="">
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-4 col-md-4 col-sm-6">
+							<div class="single-brand-item d-table">
+								<div class="d-table-cell text-center">
+									<img src="img/brands/logo11.png" alt="">
+								</div>
+							</div>
+						</div>
+						
+
 					</div>
 				</div>
 				<div class="offset-lg-2 col-lg-4 col-md-6">
+
 					<div class="client-info">
 						<div class="d-flex mb-50">
 							<span class="lage">5</span>
 							<span class="smll">Años de experiencia trabajando con TI</span>
 						</div>
+
 						<div class="call-now d-flex">
 							<div>
 								<span style="color: #00B62D;" class="fa fa-whatsapp"></span>
@@ -577,9 +604,11 @@
 							<a target="_blank" href="https://www.linkedin.com/in/carlos-ivan-de-la-cruz-ca%C3%B1ar-61190a1b8/"><i class="fa fa-linkedin"></i></a>
 							<a target="_blank" href="https://www.instagram.com/ivan5822/"><i class="fa fa-instagram"></i></a>
 						</div>
+
 					</div>
 				</div>
 			</div>
+
 			<div class="row footer_bottom justify-content-center">
 				<p class="col-lg-8 col-sm-12 footer-text">
 					<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
@@ -613,6 +642,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> Todos
 
 	<!-- stats.js -->
 	<script src="asset/js/lib/stats.js"></script>
+	<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 	<script>
 	
 	</script>
