@@ -115,7 +115,7 @@
 						</p>
 						<p>
 							Me llamo Ivan de la Cruz  soy Ingeniero en Informática y Sistemas Computacionales, llevo 5 años trabajando como profesional independiente
-							desarollando Aplicaciones Web de Gestión de inventarios, Diseños de sitios Web, Programación de de micro controladores, Puntos de venta, Sistemas de parqueaderos, Sistemas contables, 
+							desarollando Aplicaciones Web de Gestión de inventarios, Diseños de sitios Web, Programación de microcontroladores, Puntos de venta, Sistemas de parqueaderos, Sistemas contables, 
 							Aplicaciones móviles de citas médicas,Portales Web, Repositorios de documentos y Sistemas para la Ayuda Social.
 						</p>
 						<p>Considero la programación y el diseño como  las herramientas fundamentales que permiten mejorar la vida del ser humano.</p>
@@ -129,7 +129,7 @@
 	<!--================ End About Us Area =================-->
 
 	<!--================ Srart Brand Area =================-->
-	<section id="contact" class="brand_area section_gap_bottom">
+	<section  class="brand_area section_gap_bottom">
 		<div class="container">
 			<div class="row justify-content-center">
 				<div class="col-lg-6">
@@ -223,11 +223,11 @@
 
 					</div>
 				</div>
-				<div class="offset-lg-2 col-lg-4 col-md-6">
+				<div id="contact" class="offset-lg-2 col-lg-4 col-md-6">
 
 					<div class="client-info">
 						<div class="d-flex mb-50">
-							<span class="lage">5</span>
+							<span class="lage">3</span>
 							<span class="smll">Años de experiencia trabajando con TI</span>
 						</div>
 
@@ -241,7 +241,7 @@
 							</div>
 
 						</div>
-						<div style="margin-top: -60px;" class="call-now d-flex">
+						<div style="margin-top: -30px;" class="call-now d-flex">
 							<div>
 								<span style="color: #FD5447;" class="fa fa-google"></span>
 							</div>
@@ -317,169 +317,176 @@
 			</div>
 			<div class="filters portfolio-filter">
 				<ul>
-					<li class="active" data-filter="*">Web</li>
-					<li data-filter=".popular">Móvil</li>
+					<li class="active" data-filter="*">Todos</li>
+					<li data-filter=".popular">Web</li>
+					<li data-filter=".following">Móviles</li>
 					<li data-filter=".latest"> Escritorio</li>
-					<li data-filter=".following">Diseños</li>
-					<li data-filter=".upcoming">Marketing</li>
+					<li data-filter=".upcoming">Diseños</li>
 				</ul>
 			</div>
 	
 			<div class="filters-content">
 				<div class="row portfolio-grid justify-content-center">
-					<div class="col-lg-4 col-md-6 all latest">
+					<!---APLICACIONES WEB--->
+					<div class="col-lg-4 col-md-6 all popular">
 						<div class="portfolio_box">
 							<div class="single_portfolio">
-								<img class="img-fluid w-100" src="img/portfolio/p1.jpg" alt="">
+								<img class="img-fluid w-100" src="img/portfolio/souri/historial.PNG" alt="">
 								<div class="overlay"></div>
-								<a href="img/portfolio/p1.jpg" class="img-gal">
+								<a href="img/portfolio/souri/historial.PNG" class="img-gal">
 									<div class="icon">
 										<span class="lnr lnr-cross"></span>
 									</div>
 								</a>
 							</div>
 							<div class="short_info">
-								<h4><a href="portfolio-details.html">minimal design</a></h4>
-								<p>Animated, portfolio</p>
+								<h4><a href="portfolio-details.html">Historiales y Citas médicas</a></h4>
+								<p>React JS, Laravel 7, MariaBD, TypeScript, Aplicación web, API RestFull, Android</p>
 							</div>
 						</div>
 					</div>
 					<div class="col-lg-4 col-md-6 all popular">
 						<div class="portfolio_box">
 							<div class="single_portfolio">
-								<img class="img-fluid w-100" src="img/portfolio/p2.jpg" alt="">
+								<img class="img-fluid w-100" src="img/portfolio/tienda/admin.PNG" alt="">
 								<div class="overlay"></div>
-								<a href="img/portfolio/p2.jpg" class="img-gal">
+								<a href="img/portfolio/tienda/admin.PNG" class="img-gal">
 									<div class="icon">
 										<span class="lnr lnr-cross"></span>
 									</div>
 								</a>
 							</div>
 							<div class="short_info">
-								<h4><a href="portfolio-details.html">Paint wall</a></h4>
-								<p>Animated, portfolio</p>
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-4 col-md-6 all latest">
-						<div class="portfolio_box">
-							<div class="single_portfolio">
-								<img class="img-fluid w-100" src="img/portfolio/p3.jpg" alt="">
-								<div class="overlay"></div>
-								<a href="img/portfolio/p3.jpg" class="img-gal">
-									<div class="icon">
-										<span class="lnr lnr-cross"></span>
-									</div>
-								</a>
-							</div>
-							<div class="short_info">
-								<h4><a href="portfolio-details.html">female light</a></h4>
-								<p>Animated, portfolio</p>
+								<h4><a href="portfolio-details.html">Tienda Virtual UTC</a></h4>
+								<p>Larvel 7, API RestFull, Android, Mysql, Aplicación web, JQuery, Axios</p>
 							</div>
 						</div>
 					</div>
 					<div class="col-lg-4 col-md-6 all popular">
 						<div class="portfolio_box">
 							<div class="single_portfolio">
-								<img class="img-fluid w-100" src="img/portfolio/p4.jpg" alt="">
+								<img class="img-fluid w-100" src="img/portfolio/compumega/compumega_ordenes.PNG" alt="">
 								<div class="overlay"></div>
-								<a href="img/portfolio/p4.jpg" class="img-gal">
+								<a href="img/portfolio/compumega/compumega_ordenes.PNG" class="img-gal">
 									<div class="icon">
 										<span class="lnr lnr-cross"></span>
 									</div>
 								</a>
 							</div>
 							<div class="short_info">
-								<h4><a href="portfolio-details.html">fourth air</a></h4>
-								<p>Animated, portfolio</p>
+								<h4><a href="portfolio-details.html">Sistema de Ordenes</a></h4>
+								<p>Laravel 6, JQuery, Ajax, Aplicación web, Web cliente, Generar PDF, Roles </p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-6 all popular">
+						<div class="portfolio_box">
+							<div class="single_portfolio">
+								<img class="img-fluid w-100" src="img/portfolio/mulalo/mulalo_noticas_lista.PNG" alt="">
+								<div class="overlay"></div>
+								<a href="img/portfolio/mulalo/mulalo_noticas_lista.PNG" class="img-gal">
+									<div class="icon">
+										<span class="lnr lnr-cross"></span>
+									</div>
+								</a>
+							</div>
+							<div class="short_info">
+								<h4><a href="portfolio-details.html">Sistema Informativo Mulaló</a></h4>
+								<p>Larvel 5.6, Ajax, JQuery, Mysql, Blog de noticias, Planificaciones, Aplicación web</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-6 all popular">
+						<div class="portfolio_box">
+							<div class="single_portfolio">
+								<img class="img-fluid w-100" src="img/portfolio/repositorio/repositorio_lista_documentos.PNG" alt="">
+								<div class="overlay"></div>
+								<a href="img/portfolio/repositorio/repositorio_lista_documentos.PNG" class="img-gal">
+									<div class="icon">
+										<span class="lnr lnr-cross"></span>
+									</div>
+								</a>
+							</div>
+							<div class="short_info">
+								<h4><a href="portfolio-details.html">Repositorio de Documentos</a></h4>
+								<p>Larvel 5.8, Mysql, Ajax, JQuery, Aplicación web, Archivos, Roles, Cargar de PDF</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-6 all popular">
+						<div class="portfolio_box">
+							<div class="single_portfolio">
+								<img class="img-fluid w-100" src="img/portfolio/portafolio/portafolio_botones.PNG" alt="">
+								<div class="overlay"></div>
+								<a href="img/portfolio/portafolio/portafolio_botones.PNG" class="img-gal">
+									<div class="icon">
+										<span class="lnr lnr-cross"></span>
+									</div>
+								</a>
+							</div>
+							<div class="short_info">
+								<h4><a href="portfolio-details.html">Portafolios Académicos</a></h4>
+								<p>Laravel 5.3, JavaScript, JQuery, Roles y Permisos, Mysql, Integración de módulos complementarios en producción</p>
+							</div>
+						</div>
+					</div>
+					<!----APLICACIONES MOVILES--->
+					<div class="col-lg-4 col-md-6 all following">
+						<div class="portfolio_box">
+							<div class="single_portfolio">
+								<img   class="img-fluid w-100" src="img/portfolio/souriapp/play.PNG" alt="">
+								<div class="overlay"></div>
+								<a href="img/portfolio/souriapp/play.PNG" class="img-gal">
+									<div class="icon">
+										<span class="lnr lnr-cross"></span>
+									</div>
+								</a>
+							</div>
+							<div class="short_info">
+								<h4><a href="portfolio-details.html">Clínica Souri</a></h4>
+								<p>Java, Laravel 7, Json, API, Json Token, Volley, Material Desing, Android, Git, GitHub</p>
 							</div>
 						</div>
 					</div>
 					<div class="col-lg-4 col-md-6 all following">
 						<div class="portfolio_box">
 							<div class="single_portfolio">
-								<img class="img-fluid w-100" src="img/portfolio/p6.jpg" alt="">
+								<img   class="img-fluid w-100" src="img/portfolio/tiendaapp/play.PNG" alt="">
 								<div class="overlay"></div>
-								<a href="img/portfolio/p5.jpg" class="img-gal">
+								<a href="img/portfolio/tiendaapp/play.PNG" class="img-gal">
 									<div class="icon">
 										<span class="lnr lnr-cross"></span>
 									</div>
 								</a>
 							</div>
 							<div class="short_info">
-								<h4><a href="portfolio-details.html">together sign</a></h4>
-								<p>Animated, portfolio</p>
+								<h4><a href="portfolio-details.html">Tienda Virtual</a></h4>
+								<p>Java, Laravel 7, Json, API, Json Token, Volley, Material Desing, Android, Google Maps, Git, GitHub</p>
 							</div>
 						</div>
 					</div>
-					<div class="col-lg-4 col-md-6 all upcoming">
+					<!----APLICACIONES ESCRITORIO--->
+					<div class="col-lg-4 col-md-6 all latest">
 						<div class="portfolio_box">
 							<div class="single_portfolio">
-								<img class="img-fluid w-100" src="img/portfolio/p5.jpg" alt="">
+								<img class="img-fluid w-100" src="img/portfolio/garage/garage_principal.PNG" alt="">
 								<div class="overlay"></div>
-								<a href="img/portfolio/p6.jpg" class="img-gal">
+								<a href="img/portfolio/garage/garage_principal.PNG" class="img-gal">
 									<div class="icon">
 										<span class="lnr lnr-cross"></span>
 									</div>
 								</a>
 							</div>
 							<div class="short_info">
-								<h4><a href="portfolio-details.html">multiply fowl</a></h4>
-								<p>Animated, portfolio</p>
+								<h4><a href="portfolio-details.html">Sistema de parqueaderos</a></h4>
+								<p>Java 8, Postgresql, MVC, JasperReport, Diseño de interfaces, Aplicación de escritorio</p>
 							</div>
 						</div>
 					</div>
-					<div class="col-lg-4 col-md-6 all upcoming following">
-						<div class="portfolio_box">
-							<div class="single_portfolio">
-								<img class="img-fluid w-100" src="img/portfolio/p7.jpg" alt="">
-								<div class="overlay"></div>
-								<a href="img/portfolio/p7.jpg" class="img-gal">
-									<div class="icon">
-										<span class="lnr lnr-cross"></span>
-									</div>
-								</a>
-							</div>
-							<div class="short_info">
-								<h4><a href="portfolio-details.html">green heaven</a></h4>
-								<p>Animated, portfolio</p>
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-4 col-md-6 all following">
-						<div class="portfolio_box">
-							<div class="single_portfolio">
-								<img class="img-fluid w-100" src="img/portfolio/p8.jpg" alt="">
-								<div class="overlay"></div>
-								<a href="img/portfolio/p8.jpg" class="img-gal">
-									<div class="icon">
-										<span class="lnr lnr-cross"></span>
-									</div>
-								</a>
-							</div>
-							<div class="short_info">
-								<h4>fly male</h4>
-								<p>Animated, portfolio</p>
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-4 col-md-6 all upcoming">
-						<div class="portfolio_box">
-							<div class="single_portfolio">
-								<img class="img-fluid w-100" src="img/portfolio/p9.jpg" alt="">
-								<div class="overlay"></div>
-								<a href="img/portfolio/p9.jpg" class="img-gal">
-									<div class="icon">
-										<span class="lnr lnr-cross"></span>
-									</div>
-								</a>
-							</div>
-							<div class="short_info">
-								<h4><a href="portfolio-details.html">season face</a></h4>
-								<p>Animated, portfolio</p>
-							</div>
-						</div>
-					</div>
+					<!----APLICACIONES DISEÑOS--->
+
+
+
 				</div>
 			</div>
 		</div>
