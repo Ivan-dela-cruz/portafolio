@@ -346,7 +346,7 @@
 								</a>
 							</div>
 							<div class="short_info">
-								<h4><a href="portfolio-details.html">Historiales y Citas médicas</a></h4>
+								<h4><a href="#">Historiales y Citas médicas</a></h4>
 								<p>React JS, Laravel 7, MariaBD, TypeScript, Aplicación web, API RestFull, Android</p>
 							</div>
 						</div>
@@ -363,7 +363,7 @@
 								</a>
 							</div>
 							<div class="short_info">
-								<h4><a href="portfolio-details.html">Tienda Virtual UTC</a></h4>
+								<h4><a href="#">Tienda Virtual UTC</a></h4>
 								<p>Larvel 7, API RestFull, Android, Mysql, Aplicación web, JQuery, Axios</p>
 							</div>
 						</div>
@@ -380,7 +380,7 @@
 								</a>
 							</div>
 							<div class="short_info">
-								<h4><a href="portfolio-details.html">Sistema de Ordenes</a></h4>
+								<h4><a href="#">Sistema de Ordenes</a></h4>
 								<p>Laravel 6, JQuery, Ajax, Aplicación web, Web cliente, Generar PDF, Roles </p>
 							</div>
 						</div>
@@ -397,7 +397,7 @@
 								</a>
 							</div>
 							<div class="short_info">
-								<h4><a href="portfolio-details.html">Sistema Informativo Mulaló</a></h4>
+								<h4><a href="#">Sistema Informativo Mulaló</a></h4>
 								<p>Larvel 5.6, Ajax, JQuery, Mysql, Blog de noticias, Planificaciones, Aplicación web</p>
 							</div>
 						</div>
@@ -414,7 +414,7 @@
 								</a>
 							</div>
 							<div class="short_info">
-								<h4><a href="portfolio-details.html">Repositorio de Documentos</a></h4>
+								<h4><a href="#">Repositorio de Documentos</a></h4>
 								<p>Larvel 5.8, Mysql, Ajax, JQuery, Aplicación web, Archivos, Roles, Cargar de PDF</p>
 							</div>
 						</div>
@@ -431,7 +431,7 @@
 								</a>
 							</div>
 							<div class="short_info">
-								<h4><a href="portfolio-details.html">Portafolios Académicos</a></h4>
+								<h4><a href="#">Portafolios Académicos</a></h4>
 								<p>Laravel 5.3, JavaScript, JQuery, Roles y Permisos, Mysql, Integración de módulos complementarios en producción</p>
 							</div>
 						</div>
@@ -449,7 +449,7 @@
 								</a>
 							</div>
 							<div class="short_info">
-								<h4><a href="portfolio-details.html">Clínica Souri</a></h4>
+								<h4><a href="#">Clínica Souri</a></h4>
 								<p>Java, Laravel 7, Json, API, Json Token, Volley, Material Desing, Android, Git, GitHub</p>
 							</div>
 						</div>
@@ -466,7 +466,7 @@
 								</a>
 							</div>
 							<div class="short_info">
-								<h4><a href="portfolio-details.html">Tienda Virtual</a></h4>
+								<h4><a href="#">Tienda Virtual</a></h4>
 								<p>Java, Laravel 7, Json, API, Json Token, Volley, Material Desing, Android, Google Maps, Git, GitHub</p>
 							</div>
 						</div>
@@ -484,7 +484,7 @@
 								</a>
 							</div>
 							<div class="short_info">
-								<h4><a href="portfolio-details.html">Sistema de parqueaderos</a></h4>
+								<h4><a href="#">Sistema de parqueaderos</a></h4>
 								<p>Java 8, Postgresql, MVC, JasperReport, Diseño de interfaces, Aplicación de escritorio</p>
 							</div>
 						</div>
@@ -501,7 +501,7 @@
 								</a>
 							</div>
 							<div class="short_info">
-								<h4><a href="portfolio-details.html">Gestión de bomba SOLENOID </a></h4>
+								<h4><a href="#">Gestión de bomba SOLENOID </a></h4>
 								<p>Java 8, Mysql, MVC, Diseño de interfaces, Animación de interfaces,  Aplicación de escritorio</p>
 							</div>
 						</div>
