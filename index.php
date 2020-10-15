@@ -501,8 +501,8 @@
 								</a>
 							</div>
 							<div class="short_info">
-								<h4><a href="portfolio-details.html">Sistema de parqueaderos</a></h4>
-								<p>Java 8, Postgresql, MVC, JasperReport, Diseño de interfaces, Aplicación de escritorio</p>
+								<h4><a href="portfolio-details.html">Gestión de bomba SOLENOID </a></h4>
+								<p>Java 8, Mysql, MVC, Diseño de interfaces, Animación de interfaces,  Aplicación de escritorio</p>
 							</div>
 						</div>
 					</div>
