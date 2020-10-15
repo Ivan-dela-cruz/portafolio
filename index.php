@@ -42,9 +42,11 @@
 					<div class="collapse navbar-collapse offset" id="navbarSupportedContent">
 						<ul class="nav navbar-nav menu_nav justify-content-end">
 							<li class="nav-item active"><a class="nav-link" href="index.html">Inicio</a></li>
+							<!-----
 							<li class="nav-item"><a class="nav-link" href="services.html">Servicios</a></li>
 							<li class="nav-item"><a class="nav-link" href="portfolio.html">Portafolio</a></li>
 							<li class="nav-item"><a class="nav-link" href="contact.html">Contactos</a></li>
+							---->
 						</ul>
 					</div>
 				</div>
@@ -64,7 +66,9 @@
 							<h1 style="color: #fff;" class="text-uppercase">Soy Ivan</h1>
 							<h5 style="color: #fff;" class="">Desarrollador web y móvil FullStack</h5>
 							<div class="d-flex align-items-center">
+								<!---
 								<a class="primary_btn" href="#"><span>Descargar CV</span></a>
+								--->
 							</div>
 
 						</div>
@@ -111,16 +115,18 @@
 					<div class="main_title text-left">
 						<h2>INTRODUCCIÓN <br> ¿Quien soy yo? </h2>
 						<p>
-							Desarollador Web y móvil FullStack, diseñador gráfico, analista de software,consultor de TI, especialista en Marketing Digital.
+							Desarollador Web y móvil FullStack, metodologías Scrum, analista de software, diseñador gráfico  base.
 						</p>
+						<!---Desarollador Web y móvil FullStack, diseñador gráfico, analista de software,consultor de TI, especialista en Marketing Digital.
+							<a class="primary_btn" href="#"><span>Descargar CV</span></a>--->
 						<p>
-							Me llamo Ivan de la Cruz  soy Ingeniero en Informática y Sistemas Computacionales, llevo 5 años trabajando como profesional independiente
+							Me llamo Ivan de la Cruz  soy Ingeniero en Informática y Sistemas Computacionales, llevo 3 años trabajando como profesional independiente
 							desarollando Aplicaciones Web de Gestión de inventarios, Diseños de sitios Web, Programación de microcontroladores, Puntos de venta, Sistemas de parqueaderos, Sistemas contables, 
 							Aplicaciones móviles de citas médicas,Portales Web, Repositorios de documentos y Sistemas para la Ayuda Social.
 						</p>
 						<p>Considero la programación y el diseño como  las herramientas fundamentales que permiten mejorar la vida del ser humano.</p>
 
-						<a class="primary_btn" href="#"><span>Descargar CV</span></a>
+						
 					</div>
 				</div>
 			</div>
@@ -494,6 +500,8 @@
 	<!--================End Portfolio Area =================-->
 
 	<!--================ Start Testimonial Area =================-->
+
+	<!------
 	<div style="background: #fff;" class="testimonial_area section_gap_bottom">
 		<div class="container">
 			<div class="row justify-content-center">
@@ -589,6 +597,8 @@
 			</div>
 		</div>
 	</div>
+
+	---->
 	<!--================ End Testimonial Area =================-->
 
 	
